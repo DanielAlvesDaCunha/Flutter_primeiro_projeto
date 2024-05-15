@@ -1,15 +1,11 @@
-# meu_deus_do_ceu
+# meu_primeiro_app_flutter
 
-A new Flutter project.
+Meu projeto simples para entender o flutter
 
-## Getting Started
+## Comencaod
 
-This project is a starting point for a Flutter application.
+Esse projeto me ajudou a entender widgets(row, column, Container, SizedBox e criar meus proprios), como usar assets e imagens como funciona os widgest que seria igual uma pilha
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
