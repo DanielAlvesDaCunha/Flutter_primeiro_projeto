@@ -4,7 +4,8 @@ Meu projeto simples para entender o flutter
 
 ## Comecando
 
-Esse projeto me ajudou a entender widgets(row, column, Container, SizedBox e criar meus proprios), como usar assets e imagens como funciona os widgest que seria igual uma pilha
+Esse projeto me ajudou a entender widgets(row, column, Container, SizedBox e criar meus proprios), como usar assets e imagens como funciona os widgest que seria igual uma pilha.
+Stateful e Stateless, Animacoes.
 
 
 For help getting started with Flutter development, view the
